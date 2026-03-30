@@ -1,0 +1,8 @@
+Rule,RuleName,Columns,Pairs
+1,EXACT_SEX_DOB_FACILITY_ENROLL,sex_std + dob_std + facility_code_std + enrollment_std,381
+2,EXACT_SEX_DOB_FACILITY,sex_std + dob_std + facility_code_std,381
+3,EXACT_SEX_DOB_ENROLL,sex_std + dob_std + enrollment_std,381
+4,EXACT_SEX_FACILITY_ENROLL,sex_std + facility_code_std + enrollment_std,1537
+5,EXACT_DOB_FACILITY_ENROLL,dob_std + facility_code_std + enrollment_std,381
+6,EXACT_SEX_DOB,sex_std + dob_std,393
+7,EXACT_FACILITY_ENROLL_DOBYEAR,facility_code_std + enroll_year + dob_year,1505

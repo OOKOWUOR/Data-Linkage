@@ -1,0 +1,2 @@
+Run,Pairs,Matched Left,Matched Right,Unmatched Left,Unmatched Right,Left Match Rate (%),Right Match Rate (%)
+DETERMINISTIC_4VARS,381,381,381,0,268,100.0,58.71

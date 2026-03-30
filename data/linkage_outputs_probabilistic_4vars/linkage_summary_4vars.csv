@@ -1,0 +1,8 @@
+metric,value
+left_rows,381.0
+right_rows,649.0
+candidate_pairs,28458.0
+final_links,381.0
+left_match_rate_pct,100.0
+right_match_rate_pct,58.71
+threshold_used,0.95
